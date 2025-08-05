@@ -1,5 +1,5 @@
 {
-  "name": "chii",
+  "name": "chii2",
   "version": "0.0.5",
   "description": "Chrome devtools framework",
   "main": "./server/index.js",
